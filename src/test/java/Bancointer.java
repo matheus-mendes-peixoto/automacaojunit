@@ -45,6 +45,7 @@ public class Bancointer {
 		
 		
 		
+		
 		//comando para interagir o elemento
 		Thread.sleep(1000);	
 		driver.findElement(By.cssSelector("#bt_gerar_pessoa")).click();
